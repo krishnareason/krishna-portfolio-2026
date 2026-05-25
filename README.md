@@ -1,65 +1,55 @@
-# My Portfolio Website - Overview 🚀
+# Krishna Srivastava | Engineering Portfolio 🚀
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+Welcome to the open-source repository for my personal portfolio website! This project serves as an interactive showcase of my work, specializing in bridging the gap between full-stack architecture and applied AI.
 
----
-
-## ⚠️ Usage Notice
-
-This project is shared for learning purposes only.
-
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
-
-If you use parts of the code, you must provide proper credit linking back to the original repository.
-
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
+Feel free to explore the codebase, draw inspiration, and see how the 3D rendering and scroll animations are structured under the hood.
 
 ---
 
-## 🛠️ Instructions
+## ⚙️ Core Tech Stack
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+This portfolio is built with performance, type-safety, and advanced interactivity in mind:
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
-
----
-
-## ⚙️ Tech Stack
-
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+* **React & TypeScript:** For a robust, scalable component architecture.
+* **GSAP:** Driving the high-performance, smooth scroll animations and timeline sequencing.
+* **Three.js & WebGL:** Powering the interactive 3D elements and custom canvas rendering.
+* **Vite:** Lightning-fast build tooling and hot module replacement.
 
 ---
 
-## 🎨 Assets Usage
+## 🚀 Featured Engineering Projects
 
-Some 3D assets included in this repository are free to use for learning purposes.
+The live portfolio highlights several of my core systems and applications, including:
 
-However:
-
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
-
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+* **Sentinel:** Real-time enterprise telemetry and observability system.
+* **Zenith:** AI-driven financial analytics platform.
+* **Chronos Agents:** High-frequency trading simulation utilizing swarm intelligence.
+* **Symbiosis:** A collaborative platform built for climate action.
 
 ---
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+## 🛠️ Local Setup & Installation
 
----
+To run this project locally on your machine:
+   ```bash
+1. Clone the repository:
 
-## 📄 License
+   git clone [https://github.com/krishnareason/krishna-portfolio-2026.git](https://github.com/krishnareason/krishna-portfolio-2026.git)
 
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
+2. Install dependencies:
 
-See the LICENSE file for full details
+    npm install
 
+3. Start the development server:
+
+    npm run dev
+```
+
+## 📄 Usage & Inspiration
+This repository is open for the developer community to use for learning and inspiration.
+
+If you find the component architecture, 3D logic, or animation sequencing helpful for your own growth, you are highly encouraged to study and adapt those specific implementations!
+
+However, while you are welcome to learn from the code, I strongly encourage you to design and build your own unique portfolio rather than directly cloning this entire repository and swapping the name. Build something that represents you!
+
+— Krishna Srivastava
